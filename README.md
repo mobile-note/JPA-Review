@@ -9,4 +9,4 @@
 ## [Chapter 5 & 6 & 7]()
 - 일자 - 
 - 참석 - 
-- [요구사항 분석](https://github.com/mobile-note/JPA-Review/wiki/needs)
+- [요구사항 분석](https://github.com/mobile-note/JPA-Review/wiki/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
