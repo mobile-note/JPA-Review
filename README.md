@@ -6,7 +6,7 @@
 ## [Chapter 3 & 4](https://github.com/mobile-note/JPA-Review/wiki/Chapter-3-&-4)
 - 일자 - 2022/09/05 (월)
 - 참석 - 만진 , 성우 , 재우
-## [Chapter 5 & 6 & 7]()
+## [Chapter 5 & 6 & 7](https://github.com/mobile-note/JPA-Review/wiki/Chapter-5-&-6-&-7)
 - 일자 - 2022/09/15 (목)
 - 참석 - 만진 , 성우 , 재우
 - [요구사항](https://github.com/mobile-note/JPA-Review/wiki/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
