@@ -9,7 +9,7 @@
 ## [Chapter 5 & 6 & 7](https://github.com/mobile-note/JPA-Review/wiki/Chapter-5-&-6-&-7)
 - 일자 - 2022/09/15 (목)
 - 참석 - 만진 , 성우 , 재우
-- [회의실 서비스 요구사항 분석](https://github.com/mobile-note/JPA-Review/wiki/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
+- [회의실 예약 서비스 요구사항](https://github.com/mobile-note/JPA-Review/wiki/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
 ## [Chapter 8 & 9](https://github.com/mobile-note/JPA-Review/wiki/Chapter-8-&-9)
 - 일자 - 
 - 참석 - 만진 , 성우 , 재우
