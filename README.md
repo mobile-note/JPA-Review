@@ -15,3 +15,5 @@
 - 참석 - 만진 , 성우 , 재우
 ## [Chapter 10](https://github.com/mobile-note/JPA-Review/wiki/Chapter-10)
 - [과제로 대체](https://github.com/mobile-note/JPA-Review/wiki/Chapter-10)
+## [Chapter 12 & 13](https://github.com/mobile-note/JPA-Review/wiki/Chapter-12-&-13)
+- [과제로 대체](https://github.com/mobile-note/JPA-Review/wiki/Chapter-12-&-13)
