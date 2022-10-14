@@ -17,3 +17,6 @@
 - [과제로 대체](https://github.com/mobile-note/JPA-Review/wiki/Chapter-10)
 ## [Chapter 12 & 13](https://github.com/mobile-note/JPA-Review/wiki/Chapter-12-&-13)
 - [과제로 대체](https://github.com/mobile-note/JPA-Review/wiki/Chapter-12-&-13)
+## [Chapter 15 & 16](https://github.com/mobile-note/JPA-Review/wiki/Chapter-15-&-16)
+- 일자 - 2022/10/13 (목)
+- 참석 - 만진 , 성우 , 재우
